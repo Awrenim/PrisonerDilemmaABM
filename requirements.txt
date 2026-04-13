@@ -1,0 +1,6 @@
+pandas==3.0.1
+seaborn==0.13.2
+mesa==3.5.0
+matplotlib==3.10.8
+python-dotenv==1.2.1
+openai==2.26.0
